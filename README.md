@@ -1,6 +1,7 @@
 # Image-stitching
 
-<img src="./images/image_stitching.gif">
+
+<img src="./images/img1.gif">
 
 
 Image stitching is one of the essential tasks of image processing and editing. The concept of image stitching is capturing a big scene from a set of images that share some common region or features. I am showing how to perform image stitching using Python and openCV.
